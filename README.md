@@ -4,11 +4,14 @@ Srping을 이용한 Proxy Pattern Application 개발 학습
 
 
 
+
+
 ## 1부. JVM 이 해 하 기
 
 1. 자 바, JVM, JDK, JRE
  
-![](the-java-code-manipulation.001.png)
+![the-java-code-manipulation 001](https://user-images.githubusercontent.com/32234263/103335400-2c251e00-4ab8-11eb-900b-437460190981.png)
+
 
 **JVM (Java Virtual Machine)**
 
@@ -87,7 +90,8 @@ Srping을 이용한 Proxy Pattern Application 개발 학습
 
   
 
-![](the-java-code-manipulation.002.png)
+![the-java-code-manipulation 002](https://user-images.githubusercontent.com/32234263/103335418-36471c80-4ab8-11eb-8494-bd508bb3ce81.png)
+
 
   
 
@@ -175,7 +179,8 @@ JNI(Java Native Interface)
 
   
 
-![](the-java-code-manipulation.003.png)
+![the-java-code-manipulation 003](https://user-images.githubusercontent.com/32234263/103335431-3e9f5780-4ab8-11eb-9695-b4142b8906ea.png)
+
 
   
 
